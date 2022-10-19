@@ -1,6 +1,6 @@
-# Buenas prácticas para codificar más y mejor
+# Buenas prácticas en del desarrollo de proyectos de software
 
-## El buen código se autoexplica y se documenta
+## Un buen código se autoexplica y es documentado conforme se desarrolla.
 
 * *Los comentarios en el código son para explicar por qué se optó por tal solución, no para explicar el código. **El buen código se autoexplica**.*
 
@@ -10,7 +10,9 @@
 
 * A estas alturas ya debes estar usando ***git*** para versionar el código y documentación. Si la documentacion tambien se versiona asi como el codigo debe **mantenerse y ser actulizada**.
 
-* `README.md` todo buen proyecto tiene un documento donde habla y espesifica el funcionaminto y uso del mismo. Y el usdo de archivos **.md** son una forma muy practica de docuemntar el proyecto a nivel de arquitectura y configuración, bases de datos, apis etc.
+* `README.md` todo buen proyecto tiene un documento donde habla y espesifica el funcionamiento y uso del mismo. Y el uso de archivos _Markdown_ **.md** son una forma muy practica de docuementar el proyecto a nivel de arquitectura y configuración, bases de datos, apis etc.
+
+### Aqui un ejemplo del uso de Markdown y git
 
 ![Asi se ve el codigo de este texto!](https://raw.githubusercontent.com/RogelioBeristain/Buenas-practicas/master/Buenas-Practicas.png "Prewiew code markdown")
 
@@ -25,3 +27,5 @@
 [Documenta tus proyectos usando markdown](https://www.linkedin.com/pulse/documenta-tus-proyectos-usando-markdown-juan-david-ortiz-correa/?originalSubdomain=es)
 
 [Como crear un pull request con buenas practicas](https://geekytheory.com/como-crear-pull-request-buenas-practicas/)
+
+[El control de versiones TFS esta muerto](https://medium.com/@thomaz.moura/tfs-version-control-is-dead-6d475e247389)
