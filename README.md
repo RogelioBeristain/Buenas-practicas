@@ -12,9 +12,9 @@
 
 * `README.md` todo buen proyecto tiene un documento donde habla y espesifica el funcionaminto y uso del mismo. Y el usdo de archivos **.md** son una forma muy practica de docuemntar el proyecto a nivel de arquitectura y configuración, bases de datos, apis etc.
 
-![Asi se ve el codigo de este texto!](https://github.com/RogelioBeristain/Buenas-practicas/blob/master/Buenas-practicas.png "Prewiew code markdown")
+![Asi se ve el codigo de este texto!](https://raw.githubusercontent.com/RogelioBeristain/Buenas-practicas/master/Buenas-Practicas.png "Prewiew code markdown")
 
-![Otra ventaja de usar git es que puedes ver cuando y quien hizo un cambio en el código](https://github.com/RogelioBeristain/Buenas-practicas/blob/master/Buenas-practicas2.png "Ventajas de git")
+![Otra ventaja de usar git es que puedes ver cuando y quien hizo un cambio en el código](https://raw.githubusercontent.com/RogelioBeristain/Buenas-practicas/master/Buenas-Practicas2.png "Ventajas de git")
 
 #### Referencias:
 
